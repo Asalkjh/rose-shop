@@ -893,7 +893,7 @@ flex-direction: row;
         height: 250px;
     }
 
-    .post_card button{
+    .p_post p{
         display: none;
     }
 
